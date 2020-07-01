@@ -36,6 +36,12 @@ last activity: 2020.02.04
 
 ### [ピクシブ株式会社](https://www.pixiv.co.jp/)
 
+■ 動画ライブ配信 (ImageFlux) [1]
+
+[1] [採用情報](https://www.pixiv.co.jp/news/recruit/article/10019/)
+
+last activity: 2020.05.08
+
 ### [Idein Inc.](https://idein.jp/)
 
 - IoT プラットホームの [Actcast](https://actcast.io) で使っている
