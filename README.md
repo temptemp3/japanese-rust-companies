@@ -20,6 +20,9 @@
 会社のアピールや求人を好きなだけ
 
 [1] link
+
+last activity: date
+
 ```
 
 ## 会社一覧
@@ -29,6 +32,8 @@
 - [Shinjuku.rs](https://forcia.connpass.com/event/105485/)を主催しています
 
 [1] [ブログ(タグ: rust)](https://www.forcia.com/blog/technology/rust/)
+
+last activity: 2020.02.04
 
 ### [ピクシブ株式会社](https://www.pixiv.co.jp/)
 
