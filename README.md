@@ -18,6 +18,8 @@
 - 箇条書きで rust のプロダクション利用について好きなだけ
 
 会社のアピールや求人を好きなだけ
+
+[1] link
 ```
 
 ## 会社一覧
@@ -25,6 +27,8 @@
 ### [フォルシア株式会社](https://www.forcia.com/)
 
 - [Shinjuku.rs](https://forcia.connpass.com/event/105485/)を主催しています
+
+[1] [ブログ/タグ: rust](https://www.forcia.com/blog/technology/rust/)
 
 ### [ピクシブ株式会社](https://www.pixiv.co.jp/)
 
