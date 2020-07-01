@@ -22,7 +22,6 @@
 [1] link
 
 last activity: date
-
 ```
 
 ## 会社一覧
