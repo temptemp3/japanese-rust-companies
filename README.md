@@ -19,6 +19,8 @@
 
 会社のアピールや求人を好きなだけ
 
+■ 使用技術など
+
 [1] link
 
 last activity: date
