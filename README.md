@@ -32,7 +32,10 @@ last activity: date
 
 - [Shinjuku.rs](https://forcia.connpass.com/event/105485/)を主催しています
 
-[1] [ブログ(タグ: rust)](https://www.forcia.com/blog/technology/rust/)
+■ 検索エンジン開発 [2]
+
+[1] [ブログ(タグ: rust)](https://www.forcia.com/blog/technology/rust/)  
+[2] [FORCIA Summer Internship 2018](https://www.forcia.com/blog/000903.html)
 
 last activity: 2020.02.04
 
